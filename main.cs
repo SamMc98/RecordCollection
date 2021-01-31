@@ -66,10 +66,12 @@ public void addRecord(RecordCollection record){
     }
     }
 
+//from menu
     public static void AddToCollection(){
       
     }
 
+  //from menu
     public static void RemoveFromCollection(){
       
     }
